@@ -1,9 +1,12 @@
 body {  
-    color:green;  
+    color:darkred;  
 }
-h2 {  
-    color:blue;  
-}
- a:link {  
+a:link {  
         color:purple;  
     }
+h1, h2 {  
+    color: darkblue;  
+}
+p strong {  
+    color: darkkahki;  
+}
