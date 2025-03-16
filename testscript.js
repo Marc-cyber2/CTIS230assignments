@@ -9,7 +9,7 @@ function onClick() {
 
 myitem = document.getElementById("firsttest");
 
-myitem.addEventListener("move", onmousemove);
+myitem.addEventListener("mouseout", onmousemove);
 
 function onmousemove() {  
     myitem.style.color = "darkkahki";  
