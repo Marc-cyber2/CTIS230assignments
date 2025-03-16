@@ -1,5 +1,5 @@
 body {  
-    color:darkred;  
+    color: darkred;  
 }
 a:link {  
         color:purple;  
@@ -10,5 +10,6 @@ h1, h2 {
 p strong {  
     color: darkkahki;  
 }
-
-<button id="thebutton">A button</button>
+background{
+color: black;
+}
