@@ -3,7 +3,7 @@ myitem = document.getElementById("firsttest");
 myitem.addEventListener("click", onClick);
 
 function onClick() {  
-    myitem.style.color = "yellow";  
+    myitem.style.color = "purple";  
     myitem.style.fontSize = "30px"
 }
 
