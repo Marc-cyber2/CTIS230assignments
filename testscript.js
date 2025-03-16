@@ -7,11 +7,9 @@ function onClick() {
     myitem.style.fontSize = "30px"
 }
 
-myitem = document.getElementById("firsttest");
-
 myitem.addEventListener("mouseout", onmousemove);
 
 function onmousemove() {  
-    myitem.style.color = "darkkahki";  
-    myitem.style.fontSize = "1em"
+        myitem.style.color = "darkkahki";  
+        myitem.style.fontSize = "1em"
 }
