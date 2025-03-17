@@ -1,6 +1,3 @@
-body {  
-    color: darkred;  
-}
 a:link {  
         color:purple;  
     }
@@ -8,8 +5,11 @@ h1, h2 {
     color: darkblue;  
 }
 p strong {  
-    color: darkkahki;  
+    color: darkred;  
 }
-background{
-color: black;
-}
+body {
+    background-color: whitesmoke;
+    margin: 0 10%;
+    font-size: medium;
+    font-family:Cambria,Georgia,"Book Antiqua",serif
+    }
